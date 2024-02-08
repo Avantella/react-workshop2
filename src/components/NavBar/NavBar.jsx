@@ -18,6 +18,9 @@ function NavBar() {
 				<li>
 					<Link to="/PosterThree">Poster Three</Link>
 				</li>
+				<li>
+					<Link to="/PosterFour">Poster Four</Link>
+				</li>
 			</ul>
 		</nav>
 	);
